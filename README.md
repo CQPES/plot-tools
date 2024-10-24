@@ -1,2 +1,4 @@
-# cqpes-utils
+# CQPES Plot Tools
+
 Helpful scripts
+
